@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @lilmatcxa
-- 👀 I’m interested in guitar
-- 🌱 I’m currently studying geographic information system
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i cant eat spicy food!
 <!---
